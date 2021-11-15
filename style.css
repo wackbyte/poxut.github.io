@@ -1,0 +1,19 @@
+html	{
+	color: white;
+	background-color: black;
+	display: table;
+	margin: auto;
+	text-align: center;
+    font-size: 225%;
+    height: 200px;
+    width: 400px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -200px;
+}
+
+#chine  {
+    font-size: 250%;
+}
